@@ -1,0 +1,8 @@
+[project]
+name = "culture-finance-progress"
+version = "0.1.0"
+description = "文化企业融资进度穿透领域资料"
+requires-python = ">=3.11"
+
+[tool.unittest]
+start-directory = "tests"
